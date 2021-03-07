@@ -1,5 +1,5 @@
 # chrome-repeat
-chrome使用的小脚本，减少重复操作
+chrome扩展，减少重复操作的小玩意
 ```
 快捷键：
 alt+T     开始记录
